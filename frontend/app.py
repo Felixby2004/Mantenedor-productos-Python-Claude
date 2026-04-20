@@ -176,7 +176,6 @@ section[data-testid="stSidebar"] .stRadio > label {
 /* Ocultar Streamlit branding */
 #MainMenu { visibility: hidden; }
 footer    { visibility: hidden; }
-header    { visibility: hidden; }
 
 /* Tabs */
 .stTabs [data-baseweb="tab-list"] {
